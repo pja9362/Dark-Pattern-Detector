@@ -19,3 +19,4 @@ function detectAndHighlightDarkPatterns() {
 // 페이지가 로드될 때 다크 패턴을 찾고 표시하는 함수 호출
 detectAndHighlightDarkPatterns();
 document.addEventListener('DOMContentLoaded', detectAndHighlightDarkPatterns);
+document.addEventListener('scroll', detectAndHighlightDarkPatterns);
