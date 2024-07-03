@@ -1,4 +1,5 @@
 # [Frontend] Dark Pattern Detector
+ <b>🏆 2024 성균관대학교 글로벌리더학부X글로벌융합학부 융합학술제 New Wave 대상</b>
 
 ## Introduction
 웹 사이트의 다크패턴을 감지하고 교정해주는 크롬 확장 프로그램 "라이트가드(Light Guard)"입니다.
